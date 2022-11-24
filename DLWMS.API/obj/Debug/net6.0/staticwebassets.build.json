@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Ko3iAVsMdcqtT96Sy9PnfAdGtCeuexnS1ZGAdlEFo/I=",
+  "Source": "DLWMS.API",
+  "BasePath": "_content/DLWMS.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

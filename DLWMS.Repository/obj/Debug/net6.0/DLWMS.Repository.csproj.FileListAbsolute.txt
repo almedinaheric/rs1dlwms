@@ -1,0 +1,17 @@
+C:\Users\IB200100\source\repos\DLWMS\DLWMS.Repository\bin\Debug\net6.0\DLWMS.Repository.deps.json
+C:\Users\IB200100\source\repos\DLWMS\DLWMS.Repository\bin\Debug\net6.0\DLWMS.Repository.runtimeconfig.json
+C:\Users\IB200100\source\repos\DLWMS\DLWMS.Repository\bin\Debug\net6.0\DLWMS.Repository.dll
+C:\Users\IB200100\source\repos\DLWMS\DLWMS.Repository\bin\Debug\net6.0\DLWMS.Repository.pdb
+C:\Users\IB200100\source\repos\DLWMS\DLWMS.Repository\obj\Debug\net6.0\DLWMS.Repository.csproj.AssemblyReference.cache
+C:\Users\IB200100\source\repos\DLWMS\DLWMS.Repository\obj\Debug\net6.0\DLWMS.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IB200100\source\repos\DLWMS\DLWMS.Repository\obj\Debug\net6.0\DLWMS.Repository.AssemblyInfoInputs.cache
+C:\Users\IB200100\source\repos\DLWMS\DLWMS.Repository\obj\Debug\net6.0\DLWMS.Repository.AssemblyInfo.cs
+C:\Users\IB200100\source\repos\DLWMS\DLWMS.Repository\obj\Debug\net6.0\DLWMS.Repository.csproj.CoreCompileInputs.cache
+C:\Users\IB200100\source\repos\DLWMS\DLWMS.Repository\obj\Debug\net6.0\DLWMS.Repository.dll
+C:\Users\IB200100\source\repos\DLWMS\DLWMS.Repository\obj\Debug\net6.0\refint\DLWMS.Repository.dll
+C:\Users\IB200100\source\repos\DLWMS\DLWMS.Repository\obj\Debug\net6.0\DLWMS.Repository.pdb
+C:\Users\IB200100\source\repos\DLWMS\DLWMS.Repository\obj\Debug\net6.0\DLWMS.Repository.genruntimeconfig.cache
+C:\Users\IB200100\source\repos\DLWMS\DLWMS.Repository\obj\Debug\net6.0\ref\DLWMS.Repository.dll
+C:\Users\IB200100\source\repos\DLWMS\DLWMS.Repository\bin\Debug\net6.0\DLWMS.Core.dll
+C:\Users\IB200100\source\repos\DLWMS\DLWMS.Repository\bin\Debug\net6.0\DLWMS.Core.pdb
+C:\Users\IB200100\source\repos\DLWMS\DLWMS.Repository\obj\Debug\net6.0\DLWMS.Repository.csproj.CopyComplete

@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{4932B00B-7059-473F-AA09-427E62291979}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="DLWMS.API/Program.cs">
+    <Files>
+      <File FileName="DLWMS.API/Program.cs" Line="1" Column="1" />
+      <File FileName="DLWMS.Servis/class1.cs" Line="1" Column="1" />
+      <File FileName="DLWMS.Repository/Repository.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DLWMS" expanded="True">
+            <Node name="DLWMS.API" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="DLWMS.Core" expanded="True" />
+            <Node name="DLWMS.Repository" expanded="True" />
+            <Node name="DLWMS.Servis" expanded="True" />
+            <Node name="DLWMS.Web" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.DLWMS.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
